@@ -1,5 +1,10 @@
 public class FirstClass {
-    // created first class
 
-    // made changes
+    // set up
+
+    // new class created
+
+    // committed once
+
+
 }
